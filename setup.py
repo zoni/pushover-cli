@@ -13,10 +13,6 @@ def read_requirements(file):
     return [str(ir.req) for ir in parse_requirements(file)]
 
 
-# Needed to work around a bug with chump's setup.py. For more info,
-# see https://github.com/karanlyons/chump/issues/4
-pip.main(['install', 'requests==1.2.3', '--no-clean'])
-
 setup(
     name = "pushover-cli",
     version = "1.0.0",
