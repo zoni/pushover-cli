@@ -17,7 +17,7 @@ setup(
     name = "pushover-cli",
     version = "1.0.0",
     author = "Nick Groenen",
-    author_email = "zoni@zoni.nl",
+    author_email = "nick@groenen.me",
     description = "A simple command-line interface to send Pushover notifications",
     long_description = read('README.rst'),
     license = "MIT",

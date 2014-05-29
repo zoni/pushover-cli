@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Copyright (c) 2013 Nick Groenen <zoni@zoni.nl>
+# Copyright (c) 2013 Nick Groenen <nick@groenen.me>
 
 import argparse
 import chump
