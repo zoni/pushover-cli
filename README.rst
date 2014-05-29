@@ -65,6 +65,13 @@ Usage
 Changes
 -------
 
+1.0.1
+~~~~~
+
+* Update author email
+* Disable version pinning
+* Remove requests workaround
+
 1.0.0
 ~~~~~
 
