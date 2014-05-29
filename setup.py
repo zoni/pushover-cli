@@ -23,7 +23,7 @@ setup(
     license = "MIT",
     keywords = "pushover api message push service phone android iphone",
     url = "https://github.com/zoni/pushover-cli",
-    install_requires = read_requirements("requirements.txt"),
+    install_requires = read_requirements("requirements.in"),
     classifiers = [
         "Development Status :: 5 - Production/Stable",
         "Environment :: Console",
